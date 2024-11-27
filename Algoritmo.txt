@@ -12,3 +12,6 @@ repetir ate num>10
 	valor <- num/10
 	soma = soma + valor
 fim repetir
+
+Escrever (soma)
+fim

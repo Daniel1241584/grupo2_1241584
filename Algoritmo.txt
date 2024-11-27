@@ -1,0 +1,14 @@
+Algoritmo Adiciona Digitos
+
+E.D num inteiro
+
+Inicio
+
+escrever("insira um numero: ")
+ler(num)
+
+repetir ate num>10
+	
+	valor <- num/10
+	soma = soma + valor
+fim repetir
